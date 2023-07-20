@@ -1,0 +1,7 @@
+helloworld.default_controller_hello:
+  path: 'list/bands'
+  defaults:
+    _controller: '\Drupal\helloworld\Controller\DefaultController::hello'
+    _title: 'Liste des groupes'
+  requirements:
+    _permission: 'access content'

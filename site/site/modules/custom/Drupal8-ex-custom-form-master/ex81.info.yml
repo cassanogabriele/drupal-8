@@ -1,0 +1,5 @@
+name: 'Ajout de groupes'
+type: module
+description: 'Ajouter un groupe'
+core: 8.x
+package: 'Custom'
